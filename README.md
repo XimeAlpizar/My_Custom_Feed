@@ -5,4 +5,4 @@ Feeds RSS funcionan con un archivo XML conocido como webfeed, canal RSS, Atom o,
 
 En este proyecto se hizo una aplicación de catálogo de peliculas y un lector de noticias
 
-Equipo: Ximena Alpízar Vargas y Ana Paola Arredondo Díaz
+Equipo: Ximena Alpízar Vargas y Ana Paola Amor Arredondo Díaz
